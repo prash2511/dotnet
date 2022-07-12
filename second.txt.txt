@@ -1,0 +1,3 @@
+Today is Sunday
+Month is Feb
+Year is 2022
